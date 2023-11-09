@@ -28,7 +28,7 @@
 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 
 
-📫 You can [view my resume](#) and contact me by emailing ibraheemtobiloba15@gmail.com.
+📫 You can [view my resume](https://tobiloba-ibraheem.netlify.app/) and contact me by emailing ibraheemtobiloba15@gmail.com.
 
 
 
