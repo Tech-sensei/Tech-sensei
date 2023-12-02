@@ -4,7 +4,7 @@
         </samp>
 </h1>
 
-## Who am I?
+## Who am I 👨🏽‍💻
 
 My name is <b>Tobiloba Ibraheem</b>, a passionate frontend enginee, on a mission to bring concepts to life through captivating user interfaces and seamless experiences. With a good eye for design, and thanks to the years I’ve spent learning and practising front-end development as a profession (***About 2 years***), I am passionate about crafting cutting-edge and pixel-perfect project front-ends. My experience and graceful brilliance, also help me build project that will appeal to both users and clients alike.
 
@@ -12,7 +12,7 @@ I am an avid learner -basically, ***I never stop learning*** - especially becaus
 
 Join me in exploring the dynamic world of frontend technologies and staying ahead of the latest trends.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Tobiloba_Ibraheem-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tobiloba-ibraheem/)](https://www.linkedin.com/in/tobiloba-ibraheem/) [![Twitter Badge](https://img.shields.io/badge/-@Im_Tobilobah-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Im_Tobilobah)](https://twitter.com/Im_Tobilobah) [![Email Badge](https://img.shields.io/badge/-@Im_Tobilobah-1ca0f?style=for-the-badge&logo=gmail&logoColor=white&link=https://twitter.com/Im_Tobilobah)](https://twitter.com/Im_Tobilobah) 
+[![Linkedin Badge](https://img.shields.io/badge/-Tobiloba_Ibraheem-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tobiloba-ibraheem/)](https://www.linkedin.com/in/tobiloba-ibraheem/) [![Twitter Badge](https://img.shields.io/badge/-@Im_Tobilobah-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Im_Tobilobah)](https://twitter.com/Im_Tobilobah) [![Email Badge](https://img.shields.io/badge/-Email-1ca0f?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ibraheemtobiloba15@gmail.com)](mailto:ibraheemtobiloba15@gmail.com)
 
 ## Skills and Expertise 🛠️
 
@@ -36,9 +36,11 @@ In the realm of frontend development, I wield a diverse skill set, specializing 
 
 I bring a holistic approach to frontend development, ensuring a seamless blend of functionality and aesthetics.
 
-## Socials 
+## Projects
 
-📫 You can [view my resume](https://tobiloba-ibraheem.netlify.app/) and contact me by emailing ibraheemtobiloba15@gmail.com.
+## Resume💼
+
+📫 You can [view my resume](https://tobiloba-ibraheem.netlify.app/)
 
 
 
