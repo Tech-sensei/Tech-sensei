@@ -6,7 +6,7 @@
 
 ## Who am I 👨🏽‍💻
 
-My name is <b>Tobiloba Ibraheem</b>, a passionate frontend engineer, on a mission to bring concepts to life through captivating user interfaces and seamless experiences. With a good eye for design, and thanks to the years I’ve spent learning and practising front-end development as a profession (***About 2 years***), I am passionate about crafting cutting-edge and pixel-perfect project front-ends. My experience and graceful brilliance, also help me build project that will appeal to both users and clients alike.
+My name is <b>Tobiloba Ibraheem</b>, a frontend engineer, on a mission to bring concepts to life through captivating user interfaces and seamless experiences. With a good eye for design, and thanks to the years I’ve spent learning and practising front-end engineering as a profession (***2 years and more***), I am passionate about crafting cutting-edge and pixel-perfect front-ends projects. My experience and graceful brilliance, also help me build project that will appeal to both users and clients alike.
 
 I am an avid learner -basically, ***I never stop learning*** - especially because Frontend engineering is my passion. I always keep striving to become a better engineer. I'm passionate about the happiness of others, and seek to always collaborate effectively and amicably with everyone.
 
@@ -17,7 +17,7 @@ Join me in exploring the dynamic world of frontend technologies and staying ahea
 ## Skills and Expertise 🛠️
 
 
-In the realm of frontend development, I wield a diverse skill set, specializing in languages like ***Javascript*** and ***Typescript***. My proficiency extends to frameworks like ***React.js***, allowing me to craft seamless and visually appealing interfaces. Whether it's:
+In the realm of frontend engineering, I have a diverse skill set, specializing in languages like ***Javascript*** and ***Typescript***. My proficiency extends to frameworks like ***React.js***, allowing me to craft seamless and visually appealing interfaces. Whether it's:
 
 
  ![<link>HTML</link>](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -34,7 +34,7 @@ In the realm of frontend development, I wield a diverse skill set, specializing 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-I bring a holistic approach to frontend development, ensuring a seamless blend of functionality and aesthetics.
+I bring a holistic approach to frontend enginering, ensuring a seamless blend of functionality and aesthetics.
 
 ## Projects
 
