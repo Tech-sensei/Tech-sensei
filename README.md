@@ -1,32 +1,42 @@
-👋🏽 Hello, my name is Tobiloba Ibraheem
+<h1 align="center">
+        <samp>
+                <b>👋🏽 Hey there, Welcome to my GitHub Universe!</b>
+        </samp>
+</h1>
 
-[![AltSchool Badge](https://img.shields.io/badge/-Engineering-6773E5?style=for-the-badge&logo=data:image/png;base64,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&logoColor=white&link=https://altschoolafrica.com/schools/engineering)](https://altschoolafrica.com/schools/engineering) [![Linkedin Badge](https://img.shields.io/badge/-Tobiloba_Ibraheem-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tobiloba-ibraheem/)](https://www.linkedin.com/in/tobiloba-ibraheem/) [![Twitter Badge](https://img.shields.io/badge/-@Im_Tobilobah-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Im_Tobilobah)](https://twitter.com/Im_Tobilobah)
+## Who am I?
 
-🎓 Soon to be grad with a Bachelor of Science in Biochemistry and Molecular Biology, Obafemi Awolowo University. 
+My name is <b>Tobiloba Ibraheem</b>, a passionate frontend enginee, on a mission to bring concepts to life through captivating user interfaces and seamless experiences. With a good eye for design, and thanks to the years I’ve spent learning and practising front-end development as a profession (***About 2 years***), I am passionate about crafting cutting-edge and pixel-perfect project front-ends. My experience and graceful brilliance, also help me build project that will appeal to both users and clients alike.
 
+I am an avid learner -basically, ***I never stop learning*** - especially because Frontend engineering is my passion. I always keep striving to become a better engineer. I'm passionate about the happiness of others, and seek to always collaborate effectively and amicably with everyone.
 
-🌇 On the bigger side, I'm a Software Engineer. I am currently running Frontend Engineering programs at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+Join me in exploring the dynamic world of frontend technologies and staying ahead of the latest trends.
 
-❤ I'm passionate about developing websites and software that would help tech-inclined companies improve their presence online and meet their objectives. 
+[![Linkedin Badge](https://img.shields.io/badge/-Tobiloba_Ibraheem-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tobiloba-ibraheem/)](https://www.linkedin.com/in/tobiloba-ibraheem/) [![Twitter Badge](https://img.shields.io/badge/-@Im_Tobilobah-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Im_Tobilobah)](https://twitter.com/Im_Tobilobah) [![Email Badge](https://img.shields.io/badge/-@Im_Tobilobah-1ca0f?style=for-the-badge&logo=gmail&logoColor=white&link=https://twitter.com/Im_Tobilobah)](https://twitter.com/Im_Tobilobah) 
 
-
-🔰 Having worked on small-scale [projects](https://github.com/Techsensei), I'm looking to build my skills and experience by taking on large-scale projects. 
-
-
-🤝🏿I've worked and collaborated on several small [projects](https://github.com/Techsensei) that have taught me a lot about the field, and I'm looking forward to getting more exposure to what it's like working with larger teams. 
-
-
-💻 I hope to one day work as a software engineer at a Fortune 500 company and work with a diverse team. 
+## Skills and Expertise 🛠️
 
 
-🏔 If I'm not coding, then I'm speaking on Twitter Spaces where conversations revolve around software engineering, lifestyle, and tech roles. or I'm cleaning my room (can be such a neat freak). I also love to teach.
+In the realm of frontend development, I wield a diverse skill set, specializing in languages like ***Javascript*** and ***Typescript***. My proficiency extends to frameworks like ***React.js***, allowing me to craft seamless and visually appealing interfaces. Whether it's:
 
 
-💪🏽 Currently growing but here are some of my skills: HTML, CSS, SASS, Javascript, Node Js, Git & GitHub, WordPress, Research & Development, and Technical Writing.
+ ![<link>HTML</link>](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+ ![<link>CSS</link>](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+ ![<link>SASS</link>](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=for-the-badge)
+ ![<link>JavaScript</link>](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
+ ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+ ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=white)
+ ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=000000)
+ ![MaterialUi](https://img.shields.io/badge/MaterialUI-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+ ![<link>Redux</link>](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+I bring a holistic approach to frontend development, ensuring a seamless blend of functionality and aesthetics.
 
+## Socials 
 
 📫 You can [view my resume](https://tobiloba-ibraheem.netlify.app/) and contact me by emailing ibraheemtobiloba15@gmail.com.
 
