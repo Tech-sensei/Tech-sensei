@@ -6,7 +6,7 @@
 
 ## Who am I 👨🏽‍💻
 
-My name is <b>Tobiloba Ibraheem</b>, a passionate frontend enginee, on a mission to bring concepts to life through captivating user interfaces and seamless experiences. With a good eye for design, and thanks to the years I’ve spent learning and practising front-end development as a profession (***About 2 years***), I am passionate about crafting cutting-edge and pixel-perfect project front-ends. My experience and graceful brilliance, also help me build project that will appeal to both users and clients alike.
+My name is <b>Tobiloba Ibraheem</b>, a passionate frontend engineer, on a mission to bring concepts to life through captivating user interfaces and seamless experiences. With a good eye for design, and thanks to the years I’ve spent learning and practising front-end development as a profession (***About 2 years***), I am passionate about crafting cutting-edge and pixel-perfect project front-ends. My experience and graceful brilliance, also help me build project that will appeal to both users and clients alike.
 
 I am an avid learner -basically, ***I never stop learning*** - especially because Frontend engineering is my passion. I always keep striving to become a better engineer. I'm passionate about the happiness of others, and seek to always collaborate effectively and amicably with everyone.
 
