@@ -12,7 +12,7 @@ I am an avid learner -basically, ***I never stop learning*** - especially becaus
 
 Join me in exploring the dynamic world of frontend technologies and staying ahead of the latest trends.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Tobiloba_Ibraheem-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tobiloba-ibraheem/)](https://www.linkedin.com/in/tobiloba-ibraheem/) [![Twitter Badge](https://img.shields.io/badge/-@Im_Tobilobah-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Im_Tobilobah)](https://twitter.com/Im_Tobilobah) [![Email Badge](https://img.shields.io/badge/-Email-1ca0f?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ibraheemtobiloba15@gmail.com)](mailto:ibraheemtobiloba15@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Tobiloba_Ibraheem-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tobiloba-ibraheem/)](https://www.linkedin.com/in/tobiloba-ibraheem/) [![Twitter Badge](https://img.shields.io/badge/-@Im_Tobilobah-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Im_Tobilobah)](https://twitter.com/Im_Tobilobah) [![Email Badge](https://img.shields.io/badge/-Email-green?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ibraheemtobiloba15@gmail.com)](mailto:ibraheemtobiloba15@gmail.com)
 
 ## Skills and Expertise 🛠️
 
