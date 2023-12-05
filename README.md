@@ -38,7 +38,7 @@ I bring a holistic approach to frontend enginering, ensuring a seamless blend of
 
 ## Projects
 
-## Resume💼
+## Resume 💼
 
 📫 You can [view my resume](https://tobiloba-ibraheem.netlify.app/)
 
