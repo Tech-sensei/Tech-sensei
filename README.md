@@ -37,9 +37,9 @@ In the realm of frontend engineering, I have a diverse skill set, specializing i
 I bring a holistic approach to frontend enginering, ensuring a seamless blend of functionality and aesthetics.
 
 
-## Resume 💼
+## Portfolio 💼
 
-📫 You can [view my resume](https://tobiloba-ibraheem.netlify.app/)
+📫 You can [view my portfolio site](https://tobiloba-ibraheem-site.vercel.app/)
 
 
 
