@@ -1,9 +1,8 @@
 <h1 align="center">
         <samp>
-                <b>Frontend Engineer | UI/UX Enthusiast </b>
+                <b>Frontend Developer | UI/UX Enthusiast </b>
         </samp>
 </h1>
-
 
 <!-- ## About This Repository -->
 
@@ -19,7 +18,6 @@ What you'll find here:
 - 🔧 A comprehensive overview of my technical toolkit and capabilities
 
 This profile evolves with my career, reflecting my latest achievements, current interests, and the projects I'm most excited about. Take a look around and feel free to reach out if you'd like to discuss frontend development, collaborate on a project, or just have a chat about tech! -->
-
 
 <img src="https://media1.tenor.com/m/mlOsD0CKYjUAAAAd/code-programming.gif" width="1600" alt="PJSK Anime Programmer Animation" />
 
@@ -80,8 +78,7 @@ When I'm not coding, you'll find me immersed in epic video games (I'm a huge fan
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-  ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
   ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 - **Cloud Services:**
